@@ -1,0 +1,22 @@
+html {
+  background-color: grey;
+}
+.box {
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  color: yellow;
+  background-color: red;
+  padding: 20px 50px;
+  border: 20px solid blue;
+  border-top: 30px solid rgb(28, 236, 215);
+  border-bottom: 25px dotted rgb(221, 25, 215);
+  border-right: 15px double rgb(211, 192, 187);
+  border-radius: 20px 40px;
+}
+.box1 {
+  margin-left: 10px;
+}
+.box2 {
+  margin-left: 250px;
+}
